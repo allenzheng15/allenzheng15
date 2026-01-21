@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**allenzheng15/allenzheng15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Allen Zheng! Welcome to my portfolio! 
 
-Here are some ideas to get you started:
+## About me
+I am a Full Stack Developer whos always looking to build something fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in games and sports
+- LinkedIn: [zhengallen1505](https://www.linkedin.com/in/zhengallen1505/)
+
+### Education
+
+- University of Washington, Information School
+- Major: Informatics - Nutrition
+- Junior
+
+## Projects
+
+## Current Project (TFT Assistant)
+
+TFT assistant which will help players analyze their game state and offer suggestions on their next move to lead them to victory. 
+
+### 2D Automated Car
+
+Designed and developed a custom 2D simulation environment for an autonomous car, incorporating obstacles, goal-based navigation, and dynamic interactions. Applied a reinforcement learning agent using Deep Q-Network (DQN), optimizing the agent's training with epsilon decay and advanced hyperparameter tuning to improve decision-making performance. Used TensorFlow to design and train neural networks, achieving stable learning and performance improvements, with model checkpoints and evaluation metrics.
+
+### Peony Identification App
+
+Custom-trained a Sequential model to identify peonies specifically compared to other flowers. Collected, cleaned, and labeled thousands of photos of flowers from databases and web browsers for training. Designed and developed a website for image capture and classification with OpenCV and Flask backend for image processing and machine learning algorithm classification.
+
+### Annotation Masking Tool
+
+Utilizing Facebook's SAM2 model I created a masking tool which would highlight entire select areas which would subsequently be used to train future camera tracking algorithms. 
+
+## Skills
+
+**Languages:** TypeScript, Java, Python, SQLite, R, HTML
+
+**Frameworks:** Jupyter Notebook
+
+**Developer Tools:** AWS, Git, VSCode, Anaconda, Google Colab
+
+**Libraries:** Pandas, Tensorflow, Matplotlib, NumPy, Pytorch
