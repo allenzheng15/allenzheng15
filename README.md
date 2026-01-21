@@ -6,6 +6,9 @@ I'm Allen Zheng! Welcome to my portfolio!
 I am a Full Stack Developer whos always looking to build something fun.
 
 - Interested in games and sports
+- I love going biking and skiing
+- I swam competitively for 12 years
+- I hope to travel more. I've been to China, Canada, Korea, and Japan
 - LinkedIn: [zhengallen1505](https://www.linkedin.com/in/zhengallen1505/)
 
 ### Education
@@ -16,7 +19,7 @@ I am a Full Stack Developer whos always looking to build something fun.
 
 ## Projects
 
-## Current Project (TFT Assistant)
+### Current Project (TFT Assistant)
 
 TFT assistant which will help players analyze their game state and offer suggestions on their next move to lead them to victory. 
 
