@@ -20,6 +20,9 @@ I am a Full Stack Developer whos always looking to build something fun.
 - Major: Informatics - Nutrition
 - Junior
 
+## Resume
+**[Click here to view my resume](https://raw.githubusercontent.com/allenzheng15/allenzheng15/main/Allen_Zheng_Resume_2027.pdf)**
+
 ## Projects
 
 ### Current Project (TFT Assistant)
