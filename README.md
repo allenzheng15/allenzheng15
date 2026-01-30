@@ -21,7 +21,7 @@ I am a Full Stack Developer whos always looking to build something fun.
 - Junior
 
 ## Resume
-**[Click here to view my resume]([https://raw.githubusercontent.com/allenzheng15/allenzheng15/main/Resume_Allen_Zheng_2027.pdf](https://github.com/allenzheng15/allenzheng15/blob/main/Resume%20Allen%20Zheng%202027.pdf))**
+**[Click here to view my resume](https://raw.githubusercontent.com/allenzheng15/allenzheng15/main/Resume%20Allen%20Zheng%202027.pdf)**
 
 ## Projects
 
