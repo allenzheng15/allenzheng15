@@ -9,7 +9,10 @@ I am a Full Stack Developer whos always looking to build something fun.
 - I love going biking and skiing
 - I swam competitively for 12 years
 - I hope to travel more. I've been to China, Canada, Korea, and Japan
+
+### Contact Me at:
 - LinkedIn: [zhengallen1505](https://www.linkedin.com/in/zhengallen1505/)
+- Email: allenz1505@gmail.com
 
 ### Education
 
@@ -44,3 +47,5 @@ Utilizing Facebook's SAM2 model I created a masking tool which would highlight e
 **Developer Tools:** AWS, Git, VSCode, Anaconda, Google Colab
 
 **Libraries:** Pandas, Tensorflow, Matplotlib, NumPy, Pytorch
+
+
