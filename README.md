@@ -3,7 +3,9 @@
 I'm Allen Zheng! Welcome to my portfolio! 
 
 ## About me
-I am a Full Stack Developer whos always looking to build something fun.
+I am a Full Stack Developer based in Seattle whos always looking to build something fun.
+
+![Project Screenshot](DSCF1048.JPG)
 
 - Interested in games and sports
 - I love going biking and skiing
