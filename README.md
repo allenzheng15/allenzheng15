@@ -5,7 +5,7 @@ I'm Allen Zheng! Welcome to my portfolio!
 ## About me
 I am a Full Stack Developer based in Seattle whos always looking to build something fun.
 
-<p align="center">
+<p align="right">
   <img src="DSCF1048.JPG" width="300"/>
 </p>
 
@@ -13,6 +13,13 @@ I am a Full Stack Developer based in Seattle whos always looking to build someth
 - I love going biking and skiing
 - I swam competitively for 12 years
 - I hope to travel more. I've been to China, Canada, Korea, and Japan
+
+This is my cat Pumpkin!
+
+<p align="right">
+  <img src= "image000000.jpg" width="300"/>
+</p>
+
 
 ### Contact Me at:
 - LinkedIn: [zhengallen1505](https://www.linkedin.com/in/zhengallen1505/)
