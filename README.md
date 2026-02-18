@@ -39,6 +39,10 @@ This is my cat Pumpkin!
 
 TFT assistant which will help players analyze their game state and offer suggestions on their next move to lead them to victory. 
 
+<p align="center">
+  <img src= "tft.jpg" width="300"/>
+</p>
+
 ### 2D Automated Car
 
 Designed and developed a custom 2D simulation environment for an autonomous car, incorporating obstacles, goal-based navigation, and dynamic interactions. Applied a reinforcement learning agent using Deep Q-Network (DQN), optimizing the agent's training with epsilon decay and advanced hyperparameter tuning to improve decision-making performance. Used TensorFlow to design and train neural networks, achieving stable learning and performance improvements, with model checkpoints and evaluation metrics.
