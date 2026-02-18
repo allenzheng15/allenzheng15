@@ -16,9 +16,7 @@ I am a Full Stack Developer whos always looking to build something fun.
 
 ### Education
 
-- University of Washington, Information School
-- Major: Informatics - Nutrition
-- Junior
+- University of Washington (Informatics and Nutrition)
 
 ## Resume
 [Click here to view my resume](https://raw.githubusercontent.com/allenzheng15/allenzheng15/main/Resume%20Allen%20Zheng%202027.pdf)
