@@ -2,6 +2,10 @@
 
 I'm Allen Zheng! Welcome to my portfolio! 
 
+## Education
+
+- University of Washington (Informatics and Nutrition)
+
 ## About me
 I am a Full Stack Developer based in Seattle whos always looking to build something fun.
 
@@ -25,9 +29,6 @@ This is my cat Pumpkin!
 - LinkedIn: [zhengallen1505](https://www.linkedin.com/in/zhengallen1505/)
 - Email: allenz1505@gmail.com
 
-### Education
-
-- University of Washington (Informatics and Nutrition)
 
 ## Resume
 [Click here to view my resume](https://raw.githubusercontent.com/allenzheng15/allenzheng15/main/Resume%20Allen%20Zheng%202027.pdf)
