@@ -36,6 +36,12 @@ This is my cat Pumpkin!
 
 ## Projects
 
+### Capstone (DIVVY)
+
+DIVVY is a bill splitting app meant to streamline and reduce the amount of work when trying to evenly and equally split a bill. Currently the project creates a 1 time splitting session that users can join through a link without having to download an app. Core functionalities of the app include OCR technology to easily populate items from receipts, automatic splitting calculations including tax and tip, and live tracking for each individual user. Individual item selection improves splitting efficiency as it only requires users to click a button without doing calculations themselves. 
+
+Future implementations include long term splitting where users can keep track within a group over a longer period of time. We hope to implement user registration and group creation for these functionalities. 
+
 ### Current Project (TFT Assistant)
 
 TFT assistant which will help players analyze their game state and offer suggestions on their next move to lead them to victory. 
