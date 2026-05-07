@@ -45,9 +45,10 @@ Future implementations include long term splitting where users can keep track wi
 
 ### Current Project (TFT Assistant)
 
-TFT Assistant is a real-time decision support tool for Teamfight Tactics players. The app analyzes your current board state — including unit compositions, trait synergies, and item combinations — and recommends the optimal next move to maximize your chances of a top-4 finish.
-Built with Python, the assistant pulls live game data and runs it through a recommendation engine that weighs factors like economy management, rolldown timing, and augment synergies. The goal is to reduce the cognitive load of tracking dozens of variables mid-game so players can focus on execution.
-Future plans include a overlay UI for in-game use, support for multiple metas as patches roll out, and a stats dashboard showing win rate improvements over time.
+TFT Assistant is a real-time decision support tool for Teamfight Tactics players. The app uses screen capture via MSS and OpenCV to read the current game state directly from the display — no API required. Computer vision techniques including contour detection and template matching identify units, items, and board positioning in real time.
+The captured frame data is processed and fed into a recommendation engine that analyzes trait synergies, economy thresholds, and rolldown timing to suggest the optimal next move. Tesseract OCR handles text extraction for reading gold counts, health values, and augment options directly from the screen.
+Built entirely in Python, the pipeline runs PyAutoGUI for input automation and Pillow for image preprocessing before passing frames into the CV pipeline. The goal is to reduce the cognitive load of tracking dozens of variables mid-game so players can focus on execution.
+Future plans include an overlay UI using Tkinter or PyQt, support for patch-specific meta shifts, and a stats dashboard tracking decision accuracy over time.
 
 <p align="center">
   <img src= "tft.jpg" width="300"/>
