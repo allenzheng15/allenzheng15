@@ -1,10 +1,11 @@
 # Hello!
 
-I'm Allen Zheng! Welcome to my portfolio! 
+My name's Allen Zheng and here what I've been up to!
 
 ## Education
 
 - University of Washington (Informatics and Nutrition)
+- Expected grad 2027
 
 ## About me
 I am a Full Stack Developer based in Seattle whos always looking to build something fun.
@@ -65,8 +66,6 @@ Utilizing Facebook's SAM2 model I created a masking tool which would highlight e
 ## Skills
 
 **Languages:** TypeScript, Java, Python, SQLite, R, HTML
-
-**Frameworks:** Jupyter Notebook
 
 **Developer Tools:** AWS, Git, VSCode, Anaconda, Google Colab
 
